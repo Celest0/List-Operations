@@ -21,3 +21,5 @@ elif color=="black":
 
 else:
   print("st7awwa")
+
+  #as you can see the code is a brute force because that was the main goal,to find the worst solution possible! #
